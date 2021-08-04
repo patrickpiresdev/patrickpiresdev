@@ -30,12 +30,6 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
     <img
         align="center"
-        alt="Patrick-Kotlin"
-        height="30"
-        width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-    <img
-        align="center"
         alt="Patrick-Js"
         height="30"
         width="40"
