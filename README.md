@@ -18,6 +18,18 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img
         align="center"
+        alt="Patrick-C"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img
+        align="center"
+        alt="Patrick-CPlusPlus"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img
+        align="center"
         alt="Patrick-Python"
         height="30"
         width="40"
