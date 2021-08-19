@@ -1,4 +1,4 @@
-## Faaala!! Eu sou o Patrick Pires!!
+# Hey, there!! I'm Patrick Pires!!
 
 <div>
     <a href="https://github.com/patrickpiresdev">
@@ -9,7 +9,11 @@
         height="160em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickpiresdev&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
-<div style="display: inline_block"><br>
+<br/>
+
+## Main Techs
+Those are the techs that I'm more used to use and have some ownership! I use them everyday or almost everyday!
+<div style="display: inline_block">
     <img
         align="center"
         alt="Patrick-Java"
@@ -24,22 +28,10 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img
         align="center"
-        alt="Patrick-CPlusPlus"
+        alt="Patrick-PostgreSQL"
         height="30"
         width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img
-        align="center"
-        alt="Patrick-Python"
-        height="30"
-        width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img
-        align="center"
-        alt="Patrick-Elixir"
-        height="30"
-        width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
     <img
         align="center"
         alt="Patrick-Js"
@@ -58,12 +50,60 @@
         height="30"
         width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<br/>
+
+## Often Techs
+Those are the techs that I use with some frequency in my daily basis, but I don't have ownership!
+<div style="display: inline_block">
+    <img
+        align="center"
+        alt="Patrick-CPlusPlus"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img
+        align="center"
+        alt="Patrick-Python"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img
+        align="center"
+        alt="Patrick-MongoDB"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img
         align="center"
         alt="Patrick-React"
         height="30"
         width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+<br/>
+
+## Sometimes Techs
+Those are the techs that I know the basics and almost don't use!
+<div style="display: inline_block">
+    <img
+        align="center"
+        alt="Patrick-Haskell"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
+    <img
+        align="center"
+        alt="Patrick-Elixir"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+    <img
+        align="center"
+        alt="Patrick-Kotlin"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
 
 ---
