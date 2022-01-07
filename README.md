@@ -32,24 +32,6 @@ Those are the techs that I'm more used to use and have some ownership! I use the
         height="30"
         width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-    <img
-        align="center"
-        alt="Patrick-Js"
-        height="30"
-        width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img
-        align="center"
-        alt="Patrick-HTML"
-        height="30"
-        width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img
-        align="center"
-        alt="Patrick-CSS"
-        height="30"
-        width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br/>
 
@@ -76,15 +58,27 @@ Those are the techs that I use with some frequency in my daily basis, but I don'
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img
         align="center"
-        alt="Patrick-React"
+        alt="Patrick-Js"
         height="30"
         width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img
+        align="center"
+        alt="Patrick-HTML"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img
+        align="center"
+        alt="Patrick-CSS"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br/>
 
 ## Sometimes Techs
-Those are the techs that I know the basics and almost don't use!
+Those are the techs that I know the basics and almost don't use! I've known them mostly for curiosity and just for fun!
 <div style="display: inline_block">
     <img
         align="center"
@@ -104,6 +98,18 @@ Those are the techs that I know the basics and almost don't use!
         height="30"
         width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+    <img
+        align="center"
+        alt="Patrick-Clojure"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg">
+    <img
+        align="center"
+        alt="Patrick-Julia"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
 </div>
 
 ---
