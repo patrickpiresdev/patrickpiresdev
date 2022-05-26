@@ -10,7 +10,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickpiresdev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br/>
-
+<!--
 ## Main Techs
 Those are the techs that I'm more used to use and have some ownership! I use them everyday or almost everyday!
 <div style="display: inline_block">
@@ -126,3 +126,4 @@ Those are the techs that I know the basics and almost don't use! I've known them
             target="_blank">
     </a>
 </div>
+-->
