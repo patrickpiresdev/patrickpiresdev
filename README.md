@@ -1,6 +1,6 @@
 # Hey, there! I'm Patrick Pires!
 
-I'm a software engineer and computer science student. I love math, science and technology and also love to share what I learn about those three!
+I'm a software engineer who loves math, science, and technology, and I also love to share what I learn about those three!
 
 <a href="mailto:patrick.piresp@gmail.com">
     <img
