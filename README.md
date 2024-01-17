@@ -1,4 +1,4 @@
-# Hey, there! I'm Patrick Pires!
+# Hey, there! Patrick Pires here!
 
 I'm a software engineer who loves math, science, and technology, and I also love to share what I learn about those three!
 
